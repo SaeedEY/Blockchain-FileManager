@@ -1,0 +1,10 @@
+@extends('layouts.frame')
+@extends('header')
+@extends('footer')
+@extends('layouts.file_manager.nav-pan')
+@extends('layouts.file_manager.main-toolbar')
+@extends('layouts.file_manager.main-container')
+@if(isset($read_file) && $read_file)
+	@extends('layouts.file_manager.file-toolbar')
+	@extends('layouts.file_manager.file-container')
+@endif
