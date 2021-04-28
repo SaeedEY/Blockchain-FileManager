@@ -1,4 +1,4 @@
-<h1>Simple & Secure FileManager by Laravel - BETA</h1>
+<h1>Blockchain based FileManager by Laravel - BETA</h1>
 <p>This filemanager was fully implemented to store a files in database with blockchain based encryption method.</p>
 <p>This Web Application which has launched by Laravel Framework allow you to upload/download/edit/manage your File & Folders on a database (<b>not the Host</b>) with encryption method which depend the parent nodes tag id which is so similar as like as The Blockchain Topology!</p>
 <ul>
