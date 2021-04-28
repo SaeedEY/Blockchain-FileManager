@@ -1,5 +1,6 @@
-#Sedo - Laravel Based Web Application
+#SecureBockchainFileManager - BETA - Blockchain based full encrypted file manager implemented in database engine   
 <h1>Simple & Secure Database base File Laravel File Manager</h1>
+<p>This filemanager was fully implemented to store a files in database with blockchain based encryption method.</p>
 <ul>
     <li>Working such easy as drag and droping the files into the destination folder</li>
     <li>Easy Rename and Edit the files data</li>
